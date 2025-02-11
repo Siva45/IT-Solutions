@@ -1,8 +1,8 @@
 export default function Herocontent() {
    return (
       <>
-         <section className="lg:grid lg:grid-cols-2 grid grid-cols-1 lg:items-center  pt-10 justify-items-center relative">
-            <div className="p-5">
+         <section className="lg:grid lg:grid-cols-2 grid grid-cols-1 lg:items-center  pt-10 justify-items-center relative ">
+            <div className="xl:pl-10 p-4">
                <div className="text-white flex lg:justify-start justify-center gap-4 pb-10 ">
                   <i class="fa-brands fa-facebook-f  border p-2  rounded-md  hover:bg-violet-400"></i>
                   <i class="fa-brands fa-twitter border p-2 rounded-md hover:bg-violet-400"></i>

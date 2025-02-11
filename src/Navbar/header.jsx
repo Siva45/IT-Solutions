@@ -22,7 +22,7 @@ export default function Header() {
         <>
             <section className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ease-in-out  pb-2 ${isScrolled ? 'bg-blue-600 shadow-lg' : 'bg-transparent'
                 }`}>
-                <div className="sticky lg:grid lg:grid-cols-6 grid grid-cols-3 justify-items-center items-center pt-4  p-2 ">
+                <div className="sticky lg:grid lg:grid-cols-6 grid grid-cols-3 justify-items-center items-center pt-4 py-4 px-2">
                     <div className="div">
                         <Logo />
                     </div>
